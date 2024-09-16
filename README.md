@@ -7,10 +7,6 @@
 * [Introduction](#introduction)
 * [Getting Started](#getting-started)
 	+ [Clone the Repository](#clone-the-repository)
-	+ [Install Required Libraries](#install-required-libraries)
-	+ [Run the Application](#run-the-application)
-* [Using the Application](#using-the-application)
-* [Troubleshooting](#troubleshooting)
 
 ## Introduction
 ------------
